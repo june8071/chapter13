@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Vibur&display=swap');
+*{
+	font-family: 'Vibur', cursive;
+}
+.bg-blue {
+	background-color: blue;
+}
+.bg-lightblue {
+	background-color: lightblue;
+}
+.myborder{
+	border: 1px solid #ffffff;
+}
+.mycenter{
+	text-align: center;
+}
+.myright{
+	text-align: right;
+}
+.myheightcenter{
+	line-height: 20px;
+}
